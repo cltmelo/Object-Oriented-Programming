@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"br.usp.scc0604","l":"Animal"},{"p":"br.usp.scc0604.Terrestres","l":"Cachorro"},{"p":"br.usp.scc0604.Aquaticos","l":"Lambari"},{"p":"br.usp.scc0604.main","l":"Main"},{"p":"br.usp.scc0604.Terrestres","l":"Mamifero"},{"p":"br.usp.scc0604.Aquaticos","l":"Peixe"}];updateSearchResults();

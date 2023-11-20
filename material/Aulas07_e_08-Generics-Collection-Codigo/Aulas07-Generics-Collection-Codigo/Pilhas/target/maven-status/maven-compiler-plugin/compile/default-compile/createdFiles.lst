@@ -1,0 +1,5 @@
+br\usp\pilhas\Pilhas.class
+br\usp\pilhas\IntStack.class
+br\usp\pilhas\StringStack.class
+br\usp\pilhas\GenericStack.class
+br\usp\pilhas\FloatStack.class
